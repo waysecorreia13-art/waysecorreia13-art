@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou a Wayse Correia! 👋
 
-<!--
-**waysecorreia13-art/waysecorreia13-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu perfil do GitHub. Sou uma profissional motivada por lógica, organização e otimização de processos. Atualmente, atuo com Gestão de CRM e estou em transição para a área de Tecnologia, com foco em Análise de Dados, Automação de Processos e CRM.
 
-Here are some ideas to get you started:
+Como uma pessoa autista com altas habilidades, utilizo meu pensamento analítico, facilidade de aprendizado rápido e atenção aos detalhes para construir soluções práticas e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas em Estudo:
+- **Dados:** SQL, Power BI, Python
+- **Automação & CRM:** Salesforce, Syonet CRM, n8n, Integração de APIs
+- **Web:** JavaScript
+
+---
+
+### 📊 Meus Projetos e Apresentações:
+
+#### 📈 Power BI (Dashboards e Relatórios)
+*Aqui estão algumas das apresentações e análises de dados que desenvolvi:*
+- 🖥️ RELÁTORIO DE PERFORMANCE (.) - Breve descrição do que esse relatório analisa 
+  
+
+#### ⚡ Automações e Códigos (Em breve)
+*Espaço reservado para os meus próximos projetos práticos com Python, SQL e n8n.*
+
+---
+
+### 📫 Como me encontrar:
+- 💼 LinkedIn: [linkedin.com/in/wayse-correia-164a36258](https://www.linkedin.com/in/wayse-correia-164a36258)
+- 📧 E-mail: waysecorreia13@gmail.com
